@@ -4,6 +4,20 @@
   <body>
     <h1>Projects</h1>
     <p>Here are some coding Projects!</p>
+    <br><br>
+    <article>
+      <h1>Simple Batch Calculator</h1>
+      <p class="article">
+        @echo off
+        :calc
+        set /p EQUATION=Enter equation (eg. 7+7):
+        set /a Result=%EQUATION%
+        echo The answer is:%Result%
+        pause
+        cls
+        goto calc
+      </p>
+    </article>
   </body>
   <style>
     body {
@@ -17,6 +31,9 @@
     p {
       color: white;
       font-size: 50;
+    }
+    .article {
+      text-align: left;
     }
   </style>
 </html>
