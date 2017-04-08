@@ -1,2 +1,2 @@
 **Schematic:**
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)#uehid
+![Photo](http://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2013/11/schematics.png)#uehid
