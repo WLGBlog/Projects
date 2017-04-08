@@ -1,13 +1,13 @@
 **Calculator**
 
 
-STEP 1: Press the up and down buttons to select the first number. Once you are done press the center button.
+STEP 1: *Press the up and down buttons to select the first number. Once you are done press the center button.*
 
 
-STEP 2: Press the left and right buttons to select the operation. Once you are done, press the center button.
+STEP 2: *Press the left and right buttons to select the operation. Once you are done, press the center button.*
 
 
-STEP 3: Press the up and down buttons to select the other number. Once you are done press the center button.
+STEP 3: *Press the up and down buttons to select the other number. Once you are done press the center button.*
 
 
 The result should appear on the screen.
