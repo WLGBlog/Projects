@@ -1,7 +1,7 @@
 This is a simple Calculator that can be built on!
 
 
-![](http://compass1.org/wp-content/uploads/2015/06/Calculator_clipped_rev_1.png =250x)
+![](https://s23.postimg.org/tcb346ovf/Capture.png)
 
     print('1. Addition \n2. Subtraction \n3. Multiplication \n4. Division\n\n')
     operator = input('Which would you like to do? \n')
